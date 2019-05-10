@@ -3,5 +3,5 @@ This is the repo that we will use to construct our game for the Fall 2018 editio
 
 Created by:
 
-- Matt Peachey
-- James MacPhee
+- Matt Peachey!
+- James MacPhee!
