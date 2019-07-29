@@ -3,5 +3,11 @@ This is the repo that we will use to construct our game for the Fall 2018 editio
 
 Created by:
 
-- Matt Peachey!
+- [Matt Peachey](https://web.cs.dal.ca/~peachey)
 - James MacPhee!
+
+---
+
+Libraries used in this project:
+*[P5.js](https://p5js.org/)
+*[P5.play](http://p5play.molleindustria.org/)
