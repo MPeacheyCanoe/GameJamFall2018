@@ -9,5 +9,5 @@ Created by:
 ---
 
 Libraries used in this project:
-*[P5.js](https://p5js.org/)
-*[P5.play](http://p5play.molleindustria.org/)
+* [P5.js](https://p5js.org/)
+* [P5.play](http://p5play.molleindustria.org/)
