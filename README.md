@@ -1,10 +1,14 @@
 # GameJamFall2018
-This is the repo that we will use to construct our game for the Fall 2018 edition of Game Jam!  This game is constructed inside of an html file using the P5.js and P5.play javascript libraries.
 
-Created by:
+This is the Git Repo that we used to construct our game for the Fall-2018 edition of GameJam!  This game is constructed inside of an html file using the P5.js and P5.play javascript libraries.  It is a space-invaders style shooter with an **epic** boss battle after you reach a certian score.  Beware of the Whale!
+
+## Preview
+<p align="left"><img src=".readme/preview.png" width="650px"></p>
+
+## Authors
 
 - [Matt Peachey](https://web.cs.dal.ca/~peachey)
-- James MacPhee!
+- [James MacPhee](https://web.cs.dal.ca/~macphee)
 
 ---
 
